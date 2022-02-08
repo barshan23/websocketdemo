@@ -1,0 +1,29 @@
+{
+    "info": {
+        "_postman_id": "926837e6-ee5d-436a-9a6a-111c40141eb6",
+        "name": "C1",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "R1",
+            "id": "b7771696-0f28-40da-9400-cb2c08b9edc2",
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "https://postman.com",
+                    "protocol": "https",
+                    "host": [
+                        "postman",
+                        "com"
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}
